@@ -3,9 +3,9 @@
 </h1>
 
 <p align="center">
-  [About](#-about)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  [List of Challenges](#-list-of-challenges)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  [What is GoStack?](#-what-is-gostack)</a>
+  [About](https://github.com/jbresolinn/rocketseat-gostack#-about)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  [List of Challenges](https://github.com/jbresolinn/rocketseat-gostack#-list-of-challenges)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  [What is GoStack?](https://github.com/jbresolinn/rocketseat-gostack#-what-is-gostack)</a>
 </p>
 
 ## <img src=".docs/label.svg" width="24px"> About
