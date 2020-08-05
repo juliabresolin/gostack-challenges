@@ -3,9 +3,9 @@
 </h1>
 
 <p align="center">
-  <a href="#about">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#list-of-challenges">List of Challenges</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#what-is-gostack">What is GoStack?</a>
+  [About](#-about)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  [List of Challenges](#-list-of-challenges)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  [What is GoStack?](#-what-is-gostack)</a>
 </p>
 
 ## <img src=".docs/label.svg" width="24px"> About
