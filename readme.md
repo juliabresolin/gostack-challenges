@@ -3,8 +3,9 @@
 </h1>
 
 <p align="center">
- <img alt="languages count" src="https://img.shields.io/github/languages/count/jbresolinn/rocketseat-gostack?color=04D361"/>
-  <img alt="repo size" src="https://img.shields.io/github/repo-size/jbresolinn/rocketseat-gostack?color=04D361">
+  <a href="#about">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#list-of-challenges">List of Challenges</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#what-is-gostack">What is GoStack?</a>
 </p>
 
 ## <img src=".docs/label.svg" width="24px"> About
