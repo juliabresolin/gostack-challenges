@@ -11,7 +11,7 @@
 <p align="center">
   <a href="#-about">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-list-of-challenges">List of Challenges</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-what-is-gostack">What is GoStack?</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-what-is-gostack">What is GoStack?</a>&nbsp;&nbsp;&nbsp;
 </p>
 <br>
 
