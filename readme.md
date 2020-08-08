@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="gostack-challenges-header" title="gostack-challenges" src=".docs/header.png" width="900px" />
+    <img alt="gostack-challenges-header" title="gostack-challenges" src=".docs/header.svg" width="900px" />
 </h1>
 <br>
 <p align="center">
