@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="gostack-challenges-header" title="gostack-challenges" src="../.docs/header-00.svg" width="900px" />
+    <img alt="gostack-challenges-header" title="gostack-challenges" src="../.docs/header-00.svg" width="1500px" />
 </h1>
 <h3 align="center">
   Challenge 00: Node.js Concepts
@@ -15,8 +15,8 @@
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361">
 
-  <a href="https://github.com/Rocketseat/bootcamp-gostack-desafios/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/rocketseat/bootcamp-gostack-desafios?style=social">
+  <a href="https://github.com/jbresolinn/rocketseat-gostack/stargazers">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/jbresolinn/rocketseat-gostack?style=social">
   </a>
 </p>
 
@@ -26,7 +26,7 @@
   <a href="#memo-licence">Licence</a>
 </p>
 
-## <img src=".docs/label.svg" width="18px">&nbsp; About the challenge
+## <img src="../.docs/label.svg" width="18px">&nbsp; About the challenge
 
 In this challenge, you must create a application to practice what you have learned in Node.js!
 
@@ -91,6 +91,6 @@ For this challenge we have the following tests:
 - **`should not be able to like a repository that does not exist`**: In order for this test to pass, you must validate in your like route whether the repository id sent by the URL exists or not. If not, return an error with status `400`.
 
 
-## <img src=".docs/label.svg" width="18px">&nbsp; Licence
+## <img src="../.docs/label.svg" width="18px">&nbsp; Licence
 
 This project is under license from MIT. See the archive [LICENSE](../license.md) to more details.
