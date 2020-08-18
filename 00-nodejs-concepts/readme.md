@@ -1,6 +1,5 @@
-<h1 align="center">
-    <img alt="gostack-challenges-header" title="gostack-challenges" src="../.docs/header-00.svg" width="1500px" />
-</h1>
+<img alt="gostack-challenges-header" title="gostack-challenges" src="../.docs/header.png" />
+
 <h3 align="center">
   Challenge 00: Node.js Concepts
 </h3>
@@ -46,11 +45,11 @@ Navigate to the created folder and open it in the Visual Studio Code, remember t
 
 Now that you already have the template cloned, and ready to continue, you must open the file app.js, and complete the places where there's no have code, with the code to achieve the goals of each route.
 
-- **`POST /repositories`**: The route must receive `title`, `URL`, and `techs` inside of the request body. The URL must be the link to the Github of that repository. When registering a new project, it must be stored inside an object in the following format: `{id:" uuid ", title: 'Desafio Node.js', URL: 'http: //github.com / ...' , techs: ["Node.js", "..."], likes: 0} `; Make sure the ID is a UUID, and always start likes as 0.
+- **`POST /repositories`**: The route must receive `title`, `URL`, and `techs` inside of the request body. The URL must be the link to the Github of that repository. When registering a new project, it must be stored inside an object in the following format: `{id:" uuid ", title: 'Desafio Node.js', URL: 'http: //github.com / ...' , techs: ["Node.js", "..."], likes: 0}`; Make sure the ID is a UUID, and always start likes as 0.
 
 - **`GET /repositories`**: The route that lists all repositories;
 
-- **`PUT /repositories/:id`**: The route should only change the `title`, `URL` and `techs` of the repository that has the` id` equal to the `id` present in the route parameters;
+- **`PUT /repositories/:id`**: The route should only change the `title`, `URL` and `techs` of the repository that has the`id` equal to the `id` present in the route parameters;
 
 - **`DELETE /repositories/:id`**: The route must delete a repository with the `id` present in the route parameters;
 
@@ -76,7 +75,7 @@ For this challenge we have the following tests:
 
 - **`should be able to list the repositories`**: In order for this test to pass, your application must return an array with all the repositories that have been created so far.
 
-- **`should be able to update repository`**: In order for this test to pass, your application must allow only the `url`,` title` and `techs` fields to be changed.
+- **`should be able to update repository`**: In order for this test to pass, your application must allow only the `url`,`title` and `techs` fields to be changed.
 
 - **`should not be able to update a repository that does not exist`**: In order for this test to pass, you must validate in your update route whether the repository id sent by the URL exists or not. If not, return an error with status `400`.
 
@@ -89,7 +88,6 @@ For this challenge we have the following tests:
 - **`should be able to give a like to the repository`**: In order for this test to pass, your application must allow a repository with the given id to receive likes. The value of likes must be increased by 1 for each request, and as the result, return a JSON containing the repository with the number of likes updated.
 
 - **`should not be able to like a repository that does not exist`**: In order for this test to pass, you must validate in your like route whether the repository id sent by the URL exists or not. If not, return an error with status `400`.
-
 
 ## <img src="../.docs/label.svg" width="18px">&nbsp; Licence
 
