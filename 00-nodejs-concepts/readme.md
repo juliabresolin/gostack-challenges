@@ -21,7 +21,6 @@
 
 <p align="center">
   <a href="#rocket-about-the-challenge">About the challenge</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#calendar-deliver">Deliver</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licence">Licence</a>
 </p>
 
@@ -66,8 +65,6 @@ So why not use `PUT` instead of `POST`? Precisely because we are "creating" A ne
 ### Tests Specification
 
 In each test, you have a brief description of what your application must do in order for the test suits pass.
-
-If you have questions about what the tests are, and how to interpret them, take a look at **[our FAQ](https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/faq- challenges).**
 
 For this challenge we have the following tests:
 
