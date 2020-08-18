@@ -20,8 +20,8 @@
 </p>
 
 <p align="center">
-  <a href="#rocket-about-the-challenge">About the challenge</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licence">Licence</a>
+  <a href="#-about-the-challenge">About the challenge</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-licence">Licence</a>
 </p>
 
 ## <img src="../.docs/label.svg" width="18px">&nbsp; About the challenge
