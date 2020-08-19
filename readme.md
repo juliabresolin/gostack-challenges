@@ -1,4 +1,4 @@
-<img alt="gostack-challenges-header" title="gostack-challenges" src=".docs/header.png" />
+<img alt="gostack-challenges-header" title="gostack-challenges" src=".docs/header.svg" />
 <h3 align="center">Rocketseat GoStack Challenges </h3>
 <blockquote align="center">“Don't wait to plant, just be patient to haverst!"</blockquote>
 

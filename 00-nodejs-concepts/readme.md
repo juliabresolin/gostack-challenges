@@ -1,4 +1,4 @@
-<img alt="gostack-challenges-header" title="gostack-challenges" src="../.docs/header.png" />
+<img alt="gostack-challenges-header" title="gostack-challenges" src="../.docs/header.svg" />
 
 <h3 align="center">
   Challenge 00: Node.js Concepts
