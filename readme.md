@@ -24,7 +24,7 @@ The description of each challenge you encounter within the `readme.md` of earch 
 
 ## <img src=".docs/label.svg" width="18px">&nbsp; List of challenges
 
-- [00: Node.js Concepts]([https://github.com/jbresolinn/rocketseat-gostack-challenges/tree/master/00-nodejs-concepts])
+- [00: Node.js Concepts](https://github.com/jbresolinn/rocketseat-gostack-challenges/tree/master/00-nodejs-concepts)
 - 01: ReactJS Concepts
 - 02: React Native Concepts
 - 03: Node.js Fundamentals
