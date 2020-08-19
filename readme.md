@@ -32,6 +32,8 @@ The description of each challenge you encounter within the `readme.md` of earch 
 - 05: ReactJS Fundamentals
 - 06: React Native Fundamentals
 - 07: Database relationships in Node.js
+- 08: CRUD in ReactJS
+- 09: Navigation and filters in React Native
   <br><br>
 
 ## <img src=".docs/label.svg" width="18px">&nbsp; What is GoStack?
