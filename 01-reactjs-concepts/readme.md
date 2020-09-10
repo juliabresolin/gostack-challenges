@@ -1,7 +1,7 @@
 <img alt="GoStack" src="../.docs/header.svg" />
 
 <h3 align="center">
-  Desafio 03: Conceitos do ReactJS
+  Desafio 01: Conceitos do ReactJS
 </h3>
 
 <blockquote align="center">“Faça seu melhor, mas sempre com prazo de entrega”!</blockquote>
@@ -41,8 +41,6 @@ Agora que você já está com o template clonado, e pronto para continuar, você
 ### Específicação dos testes
 
 Em cada teste, tem uma breve descrição no que sua aplicação deve cumprir para que o teste passe.
-
-Caso você tenha dúvidas quanto ao que são os testes, e como interpretá-los, dê uma olhada em **[nosso FAQ](https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/faq-desafios).**
 
 Para esse desafio temos os seguintes testes:
 
