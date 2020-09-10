@@ -1,26 +1,62 @@
-import React from "react";
+import React, { useEffect, useState } from "react";
 
 import "./styles.css";
+import api from "./services/api";
 
 function App() {
+  const [indexRepository, setIndexRepository] = useState(0);
+  const [repositories, setRepositories] = useState([]);
+
+  useEffect(() => {
+    api.get("repositories").then((response) => {
+      if (response) {
+        setRepositories(response.data);
+      }
+    });
+  }, []);
+
   async function handleAddRepository() {
-    // TODO
+    const response = await api.post("repositories", {
+      title: `${indexRepository}-gostack-teste-challenge`,
+      url: "https://github.com/jbresolinn",
+      techs: ["reactjs", "javascript", "css"],
+    });
+
+    setRepositories([...repositories, response.data]);
+
+    setIndexRepository(indexRepository + 1);
   }
 
   async function handleRemoveRepository(id) {
-    // TODO
+    await api.delete(`repositories/${id}`);
+
+    setRepositories(repositories.filter((repository) => repository.id !== id));
   }
 
   return (
-    <div>
+    <div className="content">
       <ul data-testid="repository-list">
-        <li>
-          Repositório 1
+        {repositories.length !== 0 ? (
+          repositories.map((repository) => (
+            <li key={repository.id}>
+              <div className="repositoryContent">
+                <h1>{repository.title}</h1>
+                <span className="url">{repository.url}</span>
+                <ul className="techs">
+                  {repository.techs.map((tech) => (
+                    <li key={tech}>{tech}</li>
+                  ))}
+                </ul>
+              </div>
 
-          <button onClick={() => handleRemoveRepository(1)}>
-            Remover
-          </button>
-        </li>
+              <button onClick={() => handleRemoveRepository(repository.id)}>
+                Remover
+              </button>
+            </li>
+          ))
+        ) : (
+          <span>Não há repositórios cadastrados :(</span>
+        )}
       </ul>
 
       <button onClick={handleAddRepository}>Adicionar</button>
