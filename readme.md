@@ -29,7 +29,7 @@ The description of each challenge you encounter within the `readme.md` of earch 
 - [02: React Native Concepts](https://github.com/jbresolinn/rocketseat-gostack-challenges/tree/master/02-reactnative-concepts)
 - [03: Node.js Fundamentals](https://github.com/jbresolinn/rocketseat-gostack-challenges/tree/master/03-nodejs-fundamentals)
 - [04: Database and Files Upload with NodeJS](https://github.com/jbresolinn/rocketseat-gostack-challenges/tree/master/04-database-upload)
-- 05: ReactJS Fundamentals
+- [05: ReactJS Fundamentals](https://github.com/jbresolinn/rocketseat-gostack-challenges/tree/master/05-reactjs-fundamentals)
 - 06: React Native Fundamentals
 - 07: Database relationships in Node.js
 - 08: CRUD in ReactJS
