@@ -3,9 +3,9 @@
 <blockquote align="center">“Don't wait to plant, just be patient to haverst!"</blockquote>
 
 <p align="center">
-  <img alt="languages count" src="https://img.shields.io/github/languages/count/jbresolinn/rocketseat-gostack?color=2304D361"/>
-  <img alt="repo size" src="https://img.shields.io/github/repo-size/jbresolinn/rocketseat-gostack?color=2304D361">
-  <img alt="stars" src="https://img.shields.io/github/stars/jbresolinn/rocketseat-gostack?color=2304D361">
+  <img alt="languages count" src="https://img.shields.io/github/languages/count/jbresolinn/gostack-challenges?color=2304D361"/>
+  <img alt="repo size" src="https://img.shields.io/github/repo-size/jbresolinn/gostack-challenges?color=2304D361">
+  <img alt="stars" src="https://img.shields.io/github/stars/jbresolinn/gostack-challenges?color=2304D361">
 </p>
 
 <p align="center">
@@ -19,7 +19,6 @@
 
 This repository contains all the resolutions of the challenges proposed during <b><a href="https://github.com/Rocketseat">@Rocketseat</a></b> GoStack bootcamp.
 
-The description of each challenge you encounter within the `readme.md` of earch directory.
 <br><br>
 
 ## <img src=".docs/label.svg" width="18px">&nbsp; List of challenges
